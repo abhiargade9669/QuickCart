@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#orderbottom{
+    margin-left: 350px;
+    
+}
+
+#orderbottom>#top{
+    padding-top: 150px;
+    margin-left: 350px;
+    cursor: pointer;  
+    /* margin-bottom: 100px;  */
+}
+
+#orderbottom>#bottom{
+    /* margin-bottom: 110px; */
+    margin-left: 150px;
+    border: none;
+    width: 600px;
+    background-color: rgb(199, 240, 199);
+    color: rgba(36, 22, 193, 0.966);
+    border-radius: 10px;
+    padding: 15px;
+
+}
+#bot{
+    margin-top: 10px;
+    margin-left: 60px;
+}
