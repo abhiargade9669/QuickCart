@@ -6,7 +6,7 @@ TEAM:-
 *kunal
 *Arundas
 *Amit
-*Manideep
+*Abhishek
 
 API LINK:-
 https://63c6633cdcdc478e15c05f89.mockapi.io/products
